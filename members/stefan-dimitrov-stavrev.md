@@ -3,5 +3,5 @@
 ## Links | Връзки
 
 * GitHub: @Steve-Trisoft
-* Frm: (steve_stavrev)[http://frm.hackafe.org/users/steve_stavrev]
+* Frm: [steve_stavrev](http://frm.hackafe.org/users/steve_stavrev)
 
